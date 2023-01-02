@@ -1,0 +1,67 @@
+[
+  {
+    "english": "Hello, how are you?",
+    "russian": "Привет, как дела?",
+    "romanizedRussian": "Privet, kak dela?"
+  },
+  {
+    "english": "I'm doing well, thank you. How are you doing?",
+    "russian": "Мне хорошо, спасибо. Как дела у тебя?",
+    "romanizedRussian": "Mne khorosho, spasibo. Kak dela u tebya?"
+  },
+  {
+    "english": "I'm doing good as well. Thanks for asking.",
+    "russian": "Мне тоже хорошо. Спасибо, что спросил.",
+    "romanizedRussian": "Mne tozhe khorosho. Spasibo, chto sprosil."
+  },
+  {
+    "english": "What do you like to do in your free time?",
+    "russian": "Что ты любишь делать в свободное время?",
+    "romanizedRussian": "Chto ty lyubish delat' v svobodnoe vremya?"
+  },
+  {
+    "english": "In my free time, I enjoy reading, watching movies, and spending time with friends and family.",
+    "russian": "В свободное время я люблю читать, смотреть фильмы и проводить время с друзьями и семьей.",
+    "romanizedRussian": "V svobodnoe vremya ya lyublyu chitat', smotret' fil'my i provodit' vremya s druz'yami i sem'ey."
+  },
+  {
+    "english": "Do you have any favorite books or movies?",
+    "russian": "У тебя есть любимые книги или фильмы?",
+    "romanizedRussian": "U tebya yest' lyubimye knigi ili fil'my?"
+  },
+  {
+    "english": "Some of my favorite books are 'The Great Gatsby' and 'To Kill a Mockingbird.' As for movies, I really enjoy classic films like 'Casablanca' and 'Gone with the Wind.'",
+    "russian": "Некоторые из моих любимых книг - 'Великий Гэтсби' и 'Убить пересмешника'. Что касается фильмов, то я очень люблю классические фильмы, такие как 'Касабланка' и 'Взлетай на воздухе.'",
+    "romanizedRussian": "Nekotorye iz moykh lyubimykh knig - 'Velikiy Gatsbi' i 'Ubiyt' peresmeshnika'. Chto kasaetsya fil'mov, to ya ochen' lyublyu klassicheskiye fil'my, takiye kak 'Kasablanka' i 'Vzletay na vozdukhe.'"
+  },
+  {
+    "english": "I haven't read 'The Great Gatsby' yet, but it's on my list. Do you have any recommendations for other books or movies?",
+    "russian": "Я еще не читал 'Великого Гэтсби', но это на моем списке. У тебя есть рекомендации для других книг или фильмов?",
+    "romanizedRussian": "Ya eshche ne chital 'Velikogo Gatsbi', no eto na moyem spiske. U tebya yest' rekomendatsii dlya drugikh knig ili fil'mov?"
+  },
+  {
+    "english": "Do you have any favorite books or movies?",
+    "russian": "У тебя есть любимые книги или фильмы?",
+    "romanizedRussian": "U tebya yest' lyubimye knigi ili fil'my?"
+  },
+  {
+    "english": "Some of my favorite books are 'The Great Gatsby' and 'To Kill a Mockingbird.' As for movies, I really enjoy classic films like 'Casablanca' and 'Gone with the Wind.'",
+    "russian": "Некоторые из моих любимых книг - 'Великий Гэтсби' и 'Убить пересмешника.' Что касается фильмов, я очень люблю классические фильмы, такие как 'Касабланка' и 'Унесенные ветром.'",
+    "romanizedRussian": "Nekotorye iz moikh lyubimykh knig - 'Velikiy Getskbi' i 'Ubity pereesmeshnikom.' Chto kasaetsya fil'mov, ya ochen' lyublyu klassicheskie fil'my, takiye kak 'Kasablanka' i 'Unesennye vetrom.'"
+  },
+  {
+    "english": "I haven't read 'The Great Gatsby' yet, but it's on my list. Do you have any recommendations for other books or movies?",
+    "russian": "Я еще не читал 'Великого Гэтсби', но он на моем списке. У тебя есть рекомендации других книг или фильмов?",
+    "romanizedRussian": "Ya eshche ne chital 'Velikogo Getskbi', no on na moyem spiske. U tebya yest' rekomendatsii drugikh knig ili fil'mov?"
+  },
+    {
+    "english": "Certainly! Some other books I'd recommend are 'Pride and Prejudice' and 'The Catcher in the Rye.' As for movies, I really enjoy the 'Indiana Jones' series and the 'Harry Potter' films.",
+    "russian": "Конечно! Другие книги, которые я рекомендую, - это 'Гордость и предубеждение' и 'Ловец снов'. Что касается фильмов, я очень нравятся серии 'Индиана Джонс' и фильмы 'Гарри Поттер'.",
+    "romanizedRussian": "Konechno! Drugiye knigi, kotoryye ya rekomenduyu, - eto 'Gordost' i predubyedzheniye' i 'Lovets snov'. Chto kasaetsya fil'mov, ya ochen' nravyatsya serii 'Indiana Dzhons' i fil'my 'Garry Potter'."
+  },
+  {
+    "english": "I've heard great things about 'Pride and Prejudice.' I'll have to check it out. What's your favorite book or movie?",
+    "russian": "Я слышал много хороших вещей о 'Гордости и предубеждении'. Я должен буду почитать. Какая у тебя любимая книга или фильм?",
+    "romanizedRussian": "Ya slyshal mnogo khoroshikh veshchey o 'Gordosti i predubyedzhenii'. Ya dolzhen budu pochitat'. Kakaya u tebya lyubimaya kniga ili film?"
+  }
+]

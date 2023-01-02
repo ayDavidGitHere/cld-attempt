@@ -1,0 +1,80 @@
+<html>
+  <button onclick="testSpeech()"> TEST </button>
+  <br><br>
+  <button onclick="startSpeechList()"> START </button>
+  <div class="speech-cnt">
+    
+  </div>
+  <script>
+let speechList = [];
+(async function (){
+    let json = await fetch("./sample.json");
+    //console.log(json);
+    let values = await json.json();
+    console.log(values); 
+    values.map((value)=>{
+        speechList.push(value.english, "        " , value.russian);
+    });
+})();
+
+
+
+
+
+
+let speechVoices = null;
+let testSpeech = function(){
+    speak("Speaking to you from here ", speechVoices[0], 1, 1, 1);
+}
+let startSpeechList = function(){ //console.log(speechList);
+    speak(speechList[0], speechVoices[5], 1, 1, 1); 
+    let ind = 0;
+    speakData.onend = function (){
+      console.log("ended", speechList[ind]);
+      ind++;
+      if(!speechList[ind]) return;
+      speak(speechList[ind], speechVoices[5], 1, 1, 1); 
+    }
+}
+
+
+
+
+
+
+let speakData = new SpeechSynthesisUtterance();
+window.speechSynthesis.onvoiceschanged = () =>{ 
+  if ('speechSynthesis' in window) speechVoices = getVoices();
+  else console.log(' Speech Synthesis Not Supported 😞'); 
+};
+function getVoices() {
+    let voices = speechSynthesis.getVoices();
+    if(!voices.length){
+      let utterance = new SpeechSynthesisUtterance("");
+      speechSynthesis.speak(utterance);
+      voices = speechSynthesis.getVoices();
+    }else {  console.log("getVoices: ", voices.length);  }
+    return voices;
+}
+function speak(text, voice, rate, pitch, volume) { 
+    console.log(text);
+    let el = document.createElement("p");
+    document.querySelector("div.speech-cnt").appendChild(el);
+    el.innerText = text;
+    speakData.volume = volume; // From 0 to 1
+    speakData.rate = rate; // From 0.1 to 10
+    speakData.pitch = pitch; // From 0 to 2
+    speakData.text = text;
+    speakData.lang = 'en';
+    speakData.voice = voice;
+    //speechSynthesis.cancel();
+    speechSynthesis.speak(speakData);
+}
+  </script>
+</html>
+
+
+
+
+
+
