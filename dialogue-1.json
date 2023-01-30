@@ -1,0 +1,126 @@
+[
+    { 
+        "russian": "Официант: Здравствуйте, как ваши дела?",
+      "english": "Waiter: Hi, how are you?"
+    },
+    { 
+        "russian": "Амира: Хорошо, спасибо. Как ваши дела?",
+        "english": "Amira: I’m good, thanks. How are you?"
+    },
+    { 
+        "russian": "Официант: Отлично. Спасибо, что спросили. Что вы будете пить?",
+      "english": "Waiter: I’m great. Thanks for asking. What would you like to drink?"
+    },
+    { 
+        "russian": "Амира: Просто воду, пожалуйста.",
+        "english": "Amira: Just water, please."
+    },
+    { 
+        "russian": "Официант: Хорошо. Вот меню. Я сейчас принесу вашу воду.",
+      "english": "Waiter: Okay. Here is the menu. Ill be right back with your water."
+    },
+    { 
+        "russian": "Амира: Спасибо.",
+        "english": "Amira: Thanks."
+    },
+    { 
+        "russian": "Официант: Вот, держите. Вы готовы сделать заказ?",
+        "english": "Waiter: Here you go. Are you ready to order?"
+    },
+    { 
+        "russian": "Амира: Нет, мне нужно ещё пару минут.",
+        "english": "Amira: No, I need a couple more minutes."
+    },
+    { 
+        "russian": "Официант: Без проблем. Не торопитесь.",
+        "english": "Waiter: No problem. Take your time."
+    },
+    { 
+        "russian": "(Три минуты спустя…)",
+        "english": "(Three minutes later)"
+    },
+    { 
+        "russian": "Официант: Вам нужно больше времени?",
+      "english": "Waiter: Do you need more time?"
+    },
+    { 
+        "russian": "Амира: Нет, я готова.",
+        "english": "Amira: No, Im ready."
+    },
+    { 
+        "russian": "Официант: Замечательно. Что бы вы хотели?",
+      "english": "Waiter: Perfect. What would you like?"
+    },
+    { 
+        "russian": "Амира: Можно мне салат из весенней зелени с курицей?",
+        "english": "Amira: Can I have the spring greens salad with chicken?"
+    },
+    { 
+        "russian": "Официант: Конечно. Салат подаётся с супом. Хотите томатный суп-пюре или минестроне?",
+      "english": "Waiter: Sure. The salad comes with a soup. Would you like creamy tomato or minestrone?"
+    },
+    { 
+        "russian": "Амира: М-м-м, томатный суп-пюре.",
+        "english": "Amira: Umm, creamy tomato."
+    },
+    { 
+        "russian": "Официант: Хороший выбор. Хотите что-нибудь ещё?",
+      "english": "Waiter: Good choice. Would you like anything else?"
+    },
+    { 
+        "russian": "Амира: Нет, это всё.",
+        "english": "Amira: No, thats it."
+    },
+    { 
+        "russian": "Официант: Отлично!",
+      "english": "Waiter: Great!"
+    },
+    { 
+        "russian": "(Пять минут спустя…)",
+        "english": "(Five minutes later)"
+    },
+    { 
+        "russian": "Официант: Итак, вот ваш суп и салат.",
+      "english": "Waiter: All right, here is your soup and salad."
+    },
+    { 
+        "russian": "Амира: Спасибо.",
+        "english": "Amira: Thank you."
+    },
+    { 
+        "russian": "Официант: Без проблем. Дайте мне знать, если вам ещё что-нибудь понадобится.",
+      "english": "Waiter: No problem. Let me know if you need anything else."
+    },
+    { 
+        "russian": "Амира: Хорошо.",
+        "english": "Amira: Okay."
+    },
+    { 
+        "russian": "(Пятнадцать минут спустя…)",
+        "english": "(Fifteen minutes later)"
+    },
+    { 
+        "russian": "Официант: Вы закончили с едой?",
+      "english": "Waiter: Are you done with your meal?"
+    },
+    { 
+        "russian": "Амира: Ага!",
+        "english": "Amira: Yep!"
+    },
+    { 
+        "russian": "Официант: Хотите посмотреть меню десертов?",
+      "english": "Waiter: Would you like to see the dessert menu?"
+    },
+    { 
+        "russian": "Амира: Нет, спасибо. Просто чек, пожалуйста.",
+        "english": "Amira: No, thanks. Just the check, please."
+    },
+    { 
+        "russian": "Официант: Конечно. Вот он.",
+      "english": "Waiter: Of course. Here it is."
+    },
+    { 
+        "russian": "Амира: Спасибо!",
+        "english": "Amira: Thank you!"
+    }
+]

@@ -1,15 +1,18 @@
 <html>
+  <title>russian speeches </title>
   <button onclick="testSpeech()"> TEST </button>
   <br><br>
   <button onclick="startSpeechList()"> START </button>
-  <div class="speech-cnt">
+  <div class="speech-cnt"> 
     
   </div>
   <script>
 let speechList = [];
 (async function (){
-    let json = await fetch("./sample-t2.json");
-    //console.log(json);
+    let json = null;
+    //json = await fetch("./sample-t2.json");
+    json = await fetch("./dialogue-1.json");
+    console.log(json);
     let values = await json.json();
     console.log(values); 
     values.map((value)=>{
@@ -33,7 +36,7 @@ let startSpeechList = function(){ //console.log(speechList);
       console.log("ended", speechList[ind]);
       ind++;
       if(!speechList[ind]) return;
-      speak(speechList[ind], speechVoices[ind%2?5:7], 1, 1, 1); 
+      speak(speechList[ind], speechVoices[ind%2?5:11], ind%2?1:0.75, 1, 1); 
     }
 }
 
